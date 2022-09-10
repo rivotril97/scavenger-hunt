@@ -40,19 +40,19 @@ In order to build up the community governance, in a way that is fair & utilizes 
 
 
 
-Development Hunt Week 1:
+## Development Hunt Week 1:
 
 list of items for development hunt:
 
-- Git-hub contributions:
-    - Documentation 
-    - Workflow Automation
-    - Suggestions & improvements to available stack 
+- Code contributions:
+    - Useful Documentation  
+    - Workflow Automation (TBD)
+    - Suggestions & improvements to available stack
 - Infrastructure Deployments:
     - Nodes, Validators , Relayers
     - RPC's, REST, LCD's 
     - Snapshot provider 
-    - + any contribution improving the projects resources
+    - Any contribution improving the projects resources
 
 Details are ommitted on the specifics so that communication can begin on what is needed most. 
 
@@ -63,6 +63,7 @@ This week will be used to prove the strength of the tools we plan to use to buil
 
 In parrallel with this, coordinated attacks via community members is also how participants are eligible to the airdrop allocation. 
 
-This still needs some work, but something like trying to mint a bunch of NFTs , or everyone trying to swap into the same token could be some ways that we can have a true example.
+This still needs some work, but something like trying to mint a bunch of NFTs , or everyone trying to swap into the same token could be some ways that we can have confidence in the funciton of these tools
 
 
+The final decision of the weights for each task to be compensated will be made on chain, via consensus of those who have staked their cgas. 
