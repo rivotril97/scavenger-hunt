@@ -8,6 +8,16 @@ Welcome! Thank you for joining us on our journey to create the hyperfocused ecos
 - 4. Grant participants eligibility to TERPNET's stakedrop allocations.
 
 
+## When? 
+
+### Phase-1:
+- Start: Sept 27th, 2022
+- End: Oct 4th, 2022  
+### Phase-2:
+- Start: Oct 7th, 2022
+- End: Oct 14th, 2022
+
+
 ## What will it look like?
 
 Well, the plan is to break it into two, week-long phases:
@@ -54,7 +64,6 @@ list of items for development hunt:
     - Snapshot provider 
     - Any contribution improving the projects resources
 
-Details are ommitted on the specifics so that communication can begin on what is needed most. 
 
 
 ### Week 2: Stress Test.
@@ -66,4 +75,36 @@ In parrallel with this, coordinated attacks via community members is also how pa
 This still needs some work, but something like trying to mint a bunch of NFTs , or everyone trying to swap into the same token could be some ways that we can have confidence in the funciton of these tools
 
 
-The final decision of the weights for each task to be compensated will be made on chain, via consensus of those who have staked their cgas. 
+## Gaguing Contributions & Airdrop Distributions
+
+Contributions & Participation of this event will be tracked on a point based system. Upon the end of phase 2, the total results will be compared, & the proportion of contribution points that were earned will be used to calculate the proportion of fairdrop tokens allocated. 
+
+All decisions are to be finalized via consnensus of Test-Net DAO members. 
+
+## Ratios
+
+Test Net Contributors & Participants: [13%]
+- Infrastructures [5%]
+    - node,validator: +1 point
+    - relayer provider: +1 point 
+    - dapp contribution: +1 point 
+- Terp-Core Contributors: [3%]
+    - documentation resources: +1 point
+    - suggestions & improvements: +1 point
+- CGAS Depositors [5%] 
+    - We use piecewise linear curves for all items, constant above a minimum and a maximum. 
+
+Given user X is percentile /rho in some metric (ie. CGAS deposit amount), we define the reward formula as : 
+
+``` 
+Reward(R)= func(p, a, b, min, max)
+
+    =a ; if p < min
+    =b ; if p > max 
+    =a + ((b-a) * (p-min)/(max-min)) ; otherwise 
+``` 
+
+keep an eye our for a csv tracking contributions, it will mosgt likely end up [here](/contribution-tracking.csv)
+
+
+
