@@ -104,7 +104,7 @@ Reward(R)= func(p, a, b, min, max)
     =a + ((b-a) * (p-min)/(max-min)) ; otherwise 
 ``` 
 
-keep an eye our for a csv tracking contributions, it will mosgt likely end up [here](/contribution-tracking.csv)
+keep an eye our for a csv tracking contributions, it will most likely end up [here](/contribution-tracking.csv)
 
 
 
