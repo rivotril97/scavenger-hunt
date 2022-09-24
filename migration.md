@@ -8,7 +8,7 @@ The following is details on the timeline of migrating resources to Terp Network:
 
 * **End of CGAS Migration: Sept 27th, 2022**
 
-All valiidators are encouraged to halt node operations on Chronic Network following Sept 27th, to allow community members the chance to migrate cgas tokens over. 
+All validators are encouraged to halt node operations on Chronic Network following Sept 27th, to allow community members the chance to migrate cgas tokens over. 
 
 
 ## Step 1: Turn on advanced IBC transfers in Keplr
@@ -18,7 +18,7 @@ All valiidators are encouraged to halt node operations on Chronic Network follow
 ## Step 2: Set Propoer RPC & LCD endpoint for Chronic Network
 <img width="361" alt="Screen Shot 2022-09-23 at 6 03 20 PM" src="https://user-images.githubusercontent.com/90259314/192073654-ddd90ac0-53e5-4f94-8dd9-db47d4fc890a.png">
 
-This can be found on the bottom page of keplrs settings, simply copy & paste these urls to ensure keplr is connected to chronic network properly.
+This can be found on the bottom page of keplr's settings, simply copy & paste these urls to ensure keplr is connected to chronic network properly.
 
 #### API: https://api.chronic.nodestake.top/
 #### RPC: https://rpc.chronic.nodestake.top/
