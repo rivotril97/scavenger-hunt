@@ -20,8 +20,8 @@ All validators are encouraged to halt node operations on Chronic Network followi
 
 This can be found on the bottom page of keplr's settings, simply copy & paste these urls to ensure keplr is connected to chronic network properly.
 
-#### LCD: https://api.chronic.nodestake.top/
-#### RPC: https://rpc.chronic.nodestake.top/
+#### LCD: https://chtd-api.skynetvalidators.com/
+#### RPC: https://chtd-rpc.skynetvalidators.com/
 
 ## Step 3: Obtain your Terp Network wallet address
 
